@@ -44,4 +44,5 @@ Key Improvements
 This repository provides the complete implementation of PL-YOLO, including YAML files for training the model, training scripts, and testing scripts. These resources are designed to help users reproduce and build upon our results. We hope this repository will facilitate further research and development in the field of pomegranate fruit detection and computer vision in general.
 
 **Academic Translation and Polishing**
+
 This project was completed by the first author under the supervision of the supervisor. All code and models are solely intended for academic exchange and research purposes. Any commercial use (including but not limited to code, weight files, and derivative works) is strictly prohibited. If you use related results in academic research, you can acknowledge the source in your paper and comply with open-source licenses and academic norms.
